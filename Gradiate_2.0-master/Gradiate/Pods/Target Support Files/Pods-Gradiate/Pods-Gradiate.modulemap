@@ -1,0 +1,6 @@
+framework module Pods_Gradiate {
+  umbrella header "Pods-Gradiate-umbrella.h"
+
+  export *
+  module * { export * }
+}
